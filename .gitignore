@@ -1,0 +1,9 @@
+/src/main/java/org/example/Main.java
+
+out/
+.idea
+*.iml
+
+!**/src/main/**/out/
+!**/src/TestEmploeesLists/**/out/
+
